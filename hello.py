@@ -15,15 +15,19 @@ def collatz_sequence(n: int) ->list[float]:
     return result       
 
 print(collatz_sequence(7))
+
+print("The next line is a result of the divisors function")
+print("")
 #The following lines have been writen directly into the file from Github
 def divisors(m:int)-> list[int]:
     """List of all divisors of m, in increasing order."""
     result = []
 
-    for p in range(m+1):
+    for p in range(1, m + 1):
         if m % p == 0:
-            result.append(d)
+            result.append(p)
 
-   return result
-print(divisors(360)
+    return result
+
+print(divisors(360))
     
