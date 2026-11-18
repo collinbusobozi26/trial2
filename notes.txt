@@ -1,0 +1,2 @@
+This text was written inside this file using the powershell terminal
+I skipped the set-content command and i went directly to add-content but it worked, shall it continue to work as expected
