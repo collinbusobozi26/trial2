@@ -1,2 +1,19 @@
 This text was written inside this file using the powershell terminal
 I skipped the set-content command and i went directly to add-content but it worked, shall it continue to work as expected
+Create a 14-second cinematic, photorealistic 3D engineering animation explaining the fundamental working principle and construction of a steam engine.
+
+Begin with an ordinary metal kettle filled with water, heating on a stove. Show steam escaping through its spout and striking a small turbine-like wheel connected to a metal shaft. The shaft begins rotating, demonstrating how steam energy can produce mechanical motion.
+
+Transition into a detailed engineering demonstration of a miniature reciprocating steam engine. Show the major components being assembled in sequence: boiler, steam pipe, cylinder, piston, connecting rod, crankshaft, flywheel and exhaust valve.
+
+Demonstrate how pressurised steam enters the cylinder, pushes the piston, and transfers its linear motion through the connecting rod to rotate the crankshaft and flywheel.
+
+Use realistic mechanical movements, scientifically accurate component arrangements, metallic textures, cinematic lighting, macro camera shots and smooth transitions.
+
+Include clear English narration, synchronised with the animation. Use a confident, articulate male educational narrator.
+
+Maintain a consistent miniature-engine design throughout. The final shot should show the completed engine running, with the flywheel rotating smoothly.
+
+Aspect ratio: 9:16 vertical.
+Duration: 14 seconds.
+Style: photorealistic 3D mechanical engineering animation.
