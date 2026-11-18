@@ -17,3 +17,4 @@ Maintain a consistent miniature-engine design throughout. The final shot should 
 Aspect ratio: 9:16 vertical.
 Duration: 14 seconds.
 Style: photorealistic 3D mechanical engineering animation.
+Ignore this I was checking the two way working system of Git
